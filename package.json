@@ -1,0 +1,10 @@
+{
+  "author": "Axel Rauschmayer",
+  "private": true,
+  "scripts": {
+    "test": "mocha --ui qunit"
+  },
+  "dependencies": {
+    "mocha": "^8.2.1"
+  }
+}
